@@ -49,9 +49,4 @@
 
 ---
 
-### 🐍 Contribution Snake  
-![snake gif](https://github.com/sai/sai/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ⭐ *“Curiosity drives innovation — I’m here to learn, build, and contribute to impactful projects.”*
